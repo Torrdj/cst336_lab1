@@ -16,7 +16,7 @@ in html
         <title> Leo TORDJMAN: Personal Website </title>
         
         <link rel="stylesheet" href="css/styles.css" type="text/css" />
-        <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet"> 
+        <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
     </head>
 <!-- closing head -->
     <!-- This is the body -->
@@ -34,21 +34,24 @@ in html
         <br/><br/>
         <main>
             <figure id="me">
-                <img src="img/juan_doe.png" alt="Picture of Juan Doe"/>
+                <img src="img/me.jpg" alt="My Visa picture." width="342em"/>
             </figure>
             
             <div id="welcomeText">
                 Hello! <br/>
                 <p>
-                    Thank you for visiting my professional portfolio website.
+                    Thank you for visiting my personnal portfolio website.
                 </p>
                 <p>
-                    I am a Software Engineer.
+                    I am a Computer Science student recently enrolled in a Semester@CSUMB California State University, Monterey Bay.
+                    <br/>
+                    I am an International student from France.
                 </p>
                 <br/><br/>
                 <em>
-                    "With ordinary talent and extraordinary <strong>perseverance</strong> all things are attainable"
-                </em><br/> - Thomas F. Buxton
+                    "Computer Science is no more about computers than astronomy is about telescopes."
+                </em>
+                <br/> - <a href="https://en.wikipedia.org/wiki/Edsger_W._Dijkstra">Edsger W. Dijkstra</a>
             </div>
         </main>
         <!-- This is the footer -->

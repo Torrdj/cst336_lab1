@@ -32,6 +32,11 @@ nav a:hover
     transition: .9s;
 }
 
+a
+{
+    color: #7f7fff;
+}
+
 table
 {
     margin: 0px auto;
@@ -64,12 +69,12 @@ h1
 
 #me, #welcomeText
 {
-    float:left;
+    float: left;
 }
 
 #welcomeText
 {
-    text-align: left;
+    text-align: justify;
 }
 
 #current_nav
